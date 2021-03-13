@@ -1,0 +1,13 @@
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.exe
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.deps.json
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.runtimeconfig.json
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.runtimeconfig.dev.json
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.dll
+C:\Users\watan\Banco\Banco.Exercicio\bin\Debug\netcoreapp3.1\Banco.Exercicio.pdb
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.csprojAssemblyReference.cache
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.AssemblyInfoInputs.cache
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.AssemblyInfo.cs
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.dll
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.pdb
+C:\Users\watan\Banco\Banco.Exercicio\obj\Debug\netcoreapp3.1\Banco.Exercicio.genruntimeconfig.cache
